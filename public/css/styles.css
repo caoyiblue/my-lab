@@ -1,0 +1,28 @@
+/*loading the reset */
+@import url('_reset.css');
+
+
+.wrapper{
+	background-color: blue;
+}
+
+.header{
+	height: 100px;
+	background-color: black;
+}
+
+.main{
+	background-color: red;
+	float: left;
+	width: 80%;
+}
+
+.sidebar{
+	background-color: yellow;
+}
+
+.footer{
+	height:100px;
+	background: yellow;
+	margin-top: 100px;
+}
